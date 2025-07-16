@@ -14,7 +14,7 @@ A simple, fully playable Minesweeper game built using Java Swing. Customizable s
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/MinesweeperGUI.git
+   git clone https://github.com/andjelka-qa/MinesweeperGUI
    
 2. Open it in IntelliJ or any Java IDE.
 3. Ensure the resources/ folder is marked as a resources root.
