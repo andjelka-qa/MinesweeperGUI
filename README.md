@@ -20,4 +20,10 @@ A simple, fully playable Minesweeper game built using Java Swing. Customizable s
 3. Ensure the resources/ folder is marked as a resources root.
 4. Run Main.java.
 
+##  Screenshot
+
+![Main GUI](screenshots/main_mine.png)
+
+## Author
+@andjelka-qa
 
